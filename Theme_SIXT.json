@@ -1,0 +1,14 @@
+{
+    "name": "SIXT Dark Theme Simplified",
+    "dataColors": [
+        "#FF5F00",
+        "#000000",
+        "#FFA500",
+        "#666666",
+        "#B3B3B3",
+        "#333333"
+    ],
+    "background": "#1C1C1C",
+    "foreground": "#F0F0F0",
+    "tableAccent": "#FF5F00"
+}
